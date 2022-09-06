@@ -17,9 +17,7 @@ from timelist import horas
 import json
 from tkinter import *
 from tkinter import ttk
-from tkinter import scrolledtext
 from tkinter import messagebox
-from datetime import datetime
 
 
 user = getpass.getuser()
