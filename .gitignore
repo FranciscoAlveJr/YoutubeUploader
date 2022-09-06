@@ -1,0 +1,8 @@
+build
+dist
+venv
+Youtube Uploader
+t.py
+up.ico
+*.zip
+*.spec
